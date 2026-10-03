@@ -1,3 +1,4 @@
+@smoke
 Feature: Login functionality
 
   Scenario Outline: Login with different credentials
@@ -10,3 +11,6 @@ Feature: Login functionality
       | username      | password       | result  |
       | standard_user | secret_sauce   | success |
       | invalid_user  | wrong_password | error   |
+
+
+    
