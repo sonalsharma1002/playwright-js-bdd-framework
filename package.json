@@ -1,7 +1,7 @@
 {
   "name": "playwrightjsfr",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright JS BDD Automation Framework",
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js",
